@@ -40,8 +40,8 @@ const Home = () => {
       <div>
         {users.map((user) => (
           <div>
-            <h3 key={user.id}>{user.name}</h3>
-            <Link to={`/user/${user.id}`}><button className="userLink">User Details</button></Link>
+            <h3 key={user.id}>{user.username}</h3>
+            <Link to={`/user/${user.id}`}><button className="userLink">View Details</button></Link>
           </div>
         ))}
       </div>
