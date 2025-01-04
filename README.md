@@ -4,7 +4,7 @@ This is a test project where you fetch api from jsonplaceholder and display some
 
 
 ## Live link
-[Live]()
+[Live](https://react-api-trial-project.vercel.app/)
 
 ## Built With
 
