@@ -19,7 +19,7 @@ This is a test project where you fetch api from jsonplaceholder and display some
 
 To get a local copy up and running follow these simple example steps.
 
-- Clone the repo by typing `git@github.com:keneogu/Ecommerce-frontend.git`
+- Clone the repo by typing `git@github.com:keneogu/React-api-trial-project.git`
 - Run `npm install` to install the dependencies
 
 ## Run locally
